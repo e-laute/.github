@@ -21,5 +21,5 @@ As scholars, we are also working on five pilot studies on our platform that cove
       </tr></table>
 
 </div>
-  <div id="funder-acks">This research project is funded by Weave (FWF / DFG / SNSF): I 6019</div>
+  <div id="funder-acks" align="center">This research project is funded by Weave (FWF / DFG / SNSF): I 6019</div>
 </footer>
