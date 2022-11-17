@@ -12,11 +12,11 @@ As scholars, we are also working on five pilot studies on our platform that cove
 <hr>
 
 <footer>
-<div id="funder-logos">
-  <img src="https://e-laute.github.io/assets/img/Weave.svg" width="150" alt="Weave: Research funding without borders" title="Weave: Research funding without borders">
-  <img src="https://e-laute.github.io/assets/img/FWF.svg" width="150" alt="FWF: Austrian Science Fund" title="FWF: Austrian Science Fund">
-  <img src="https://e-laute.github.io/assets/img/DFG.svg" width="150" alt="DFG: German Research Foundation" title="DFG: German Research Foundation">
-  <img src="https://e-laute.github.io/assets/img/SNSF.svg" width="150" alt="SNSF: Swiss National Science Foundation" title="SNSF: Swiss National Science Foundation">
+<div id="funder-logos" style="display:flex; justify-content:space-between;>
+  <img src="https://e-laute.github.io/assets/img/Weave.svg" height="50" alt="Weave: Research funding without borders" title="Weave: Research funding without borders">
+  <img src="https://e-laute.github.io/assets/img/FWF.svg" height="50" alt="FWF: Austrian Science Fund" title="FWF: Austrian Science Fund">
+  <img src="https://e-laute.github.io/assets/img/DFG.svg" height="50" alt="DFG: German Research Foundation" title="DFG: German Research Foundation">
+  <img src="https://e-laute.github.io/assets/img/SNSF.svg" height="50" alt="SNSF: Swiss National Science Foundation" title="SNSF: Swiss National Science Foundation">
 </div>
   <div id="funder-acks">This research project is funded by Weave (FWF / DFG / SNSF): I 6019</div>
 </footer>
