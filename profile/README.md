@@ -13,13 +13,13 @@ As scholars, we are also working on five pilot studies on our platform that cove
 
 <footer>
 <div id="funder-logos">
-  <table><tr><td>
-  <img src="https://e-laute.github.io/assets/img/Weave.svg" height="50" alt="Weave: Research funding without borders" title="Weave: Research funding without borders" style="margin-right:1em;"></td>
-  <td><img src="https://e-laute.github.io/assets/img/FWF.svg" height="50" alt="FWF: Austrian Science Fund" title="FWF: Austrian Science Fund" style="margin-right:1em;"></td>
-  <td><img src="https://e-laute.github.io/assets/img/DFG.svg" height="50" alt="DFG: German Research Foundation" title="DFG: German Research Foundation" style="margin-right:1em;"></td>
-<td>  <img src="https://e-laute.github.io/assets/img/SNSF.svg" height="50" alt="SNSF: Swiss National Science Foundation" title="SNSF: Swiss National Science Foundation">
+  <table style="border: 0px;"><tr><td style="border: unset !important;">
+  <img src="https://e-laute.github.io/assets/img/Weave.svg" width="200" alt="Weave: Research funding without borders" title="Weave: Research funding without borders" style="margin-right:1em;"/></td>
+  <td style="border: unset !important;"><img src="https://e-laute.github.io/assets/img/FWF.svg" width="200" alt="FWF: Austrian Science Fund" title="FWF: Austrian Science Fund" style="margin-right:1em;"/></td>
+  <td style="border: unset !important;"><img src="https://e-laute.github.io/assets/img/DFG.svg" width="200" alt="DFG: German Research Foundation" title="DFG: German Research Foundation" style="margin-right:1em;"/></td>
+<td style="border: unset !important;">  <img src="https://e-laute.github.io/assets/img/SNSF.svg" width="200" alt="SNSF: Swiss National Science Foundation" title="SNSF: Swiss National Science Foundation"></td>
       </tr></table>
 
 </div>
-  <div id="funder-acks" align="center">This research project is funded by Weave (FWF / DFG / SNSF): I 6019</div>
+  <div id="funder-acks">This research project is funded by Weave (FWF / DFG / SNSF): I 6019</div>
 </footer>
